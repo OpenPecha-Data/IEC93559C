@@ -1,0 +1,61 @@
+id: IEC93559C
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:42:41.254119'
+last_modified: '2022-05-30T18:42:41.254124'
+parser: null
+source_metadata:
+  title: Do Khyentse Yeshe Dorje Series
+  language: zh
+  description: 'A series of texts associated with the treasure-revealer Do Khyentse
+    Yeshe Dorje (mdo mkhyen brtse ye shes rdo rje, 1800–1866), renowned as the ''mind
+    emanation'' of Jigme Lingpa:'
+  volume:
+    f63F2:
+      title: 'The Truthful Words of a Sage: An Aspiration Prayer from the Exceedingly
+        Secret, Enlightened Heart-Essence of the Ḍākinī'
+      base_file: f63F2.txt
+      order: 1
+      parent: Aspiration Prayers
+    f85B2:
+      title: Heart of Vajrasattva—The Heart of Confession, the King of Purification
+        Practices, from 'The Immaculate Secret Vajrasattva'
+      base_file: f85B2.txt
+      order: 2
+      parent: Confession
+    fD1D5:
+      title: A Very Brief Prayer for Clearing Obstacles from the Path (Barche Lamsel)
+      base_file: fD1D5.txt
+      order: 3
+      parent: Guru Rinpoche Prayers
+    fD873:
+      title: 'The Lightning Bolt of Compassion: A Short Prayer that Spontaneously
+        Fulfils All Wishes (Sampa Lhundrupma)'
+      base_file: fD873.txt
+      order: 4
+      parent: Guru Rinpoche Prayers
+    f57E7:
+      title: The Lineage Prayer for the Natural Liberation of Grasping (Dzinpa Rangdrol)
+      base_file: f57E7.txt
+      order: 5
+      parent: Lineage Prayers
+    fCFEF:
+      title: 'The Hook Which Invokes the Blessings: A Supplication to the Life and
+        Liberation of Rigdzin Jalü Dorje'
+      base_file: fCFEF.txt
+      order: 6
+      parent: Prayers
+    fAAE7:
+      title: The Recitation for the Gradual Path of the Preliminaries from The Exceedingly
+        Secret, Enlightened Heart-Essence of the Ḍākinī
+      base_file: fAAE7.txt
+      order: 7
+      parent: Preliminaries
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
